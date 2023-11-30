@@ -1,3 +1,2 @@
 # Log-Ingestor
-Mechanism to ingest Logs
-Search Logs
+Mechanism to ingest logs and search those logs
